@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resoures" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.5" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.tongweb.tw7:config:7.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.tongweb.tw7:modeler:7.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.tongweb.commons-logging:commons-logging:1.1.1" level="project" />
+    <orderEntry type="library" exported="" name="Maven: com.tongweb.tw7:openejb-client:7.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.tw7:tw7-core:7.0" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.tw7:common:7.0" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.tw7:deploy-interface:7.0" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.web:catalina:8.5.6" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.web:web-api:8.5.6" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.web:web-util-scan:8.5.6" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.web:jaspic-api:8.5.6" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.web:annotations-api:8.5.6" level="project" />
+    <orderEntry type="library" name="Maven: javax.mail:javax.mail-api:1.5.6" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.web:catalina-ha:8.5.6" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.web:catalina-tribes:8.5.6" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.web:web-juli:8.5.6" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.web:web-util:8.5.6" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.web:web-coyote:8.5.6" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.web:servlet-api:8.5.6" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.web:web-jni:8.5.6" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.web:jasper:8.5.6" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.web:jsp-api:8.5.6" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.web:el-api:8.5.6" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.eclipse.jdt.core.compiler:ecj:4.5.1" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.core:resources:3.3.0-v20070604" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.core:expressions:3.3.0-v20070606-0010" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.core:filesystem:1.1.0-v20070606" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.equinox:common:3.6.200-v20130402-1505" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.equinox:registry:3.5.400-v20140428-1507" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse:osgi:3.10.0-v20140606-1445" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.core:runtime:3.10.0-v20140318-2214" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.core:jobs:3.6.0-v20140424-0053" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.equinox:preferences:3.5.200-v20140224-1527" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.core:contenttype:3.4.200-v20140207-1251" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.equinox:app:1.3.200-v20130910-1609" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jdt:core:3.2.1-v_677_R32x" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse:text:3.3.0-v20070606-0010" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.core:commands:3.3.0-I20070605-0010" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.ant:ant:1.9.5" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.ant:ant-launcher:1.9.5" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.tw7:tomee-catalina:7.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.tw7:javaee-api:tomcat:7.0-1" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.tw7:tomee-common:7.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.tw7:openejb-loader:7.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.swizzle:swizzle-stream:1.6.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.xbean:xbean-naming:4.5" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.tw7:tomee-loader:7.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.tw7:tomee-jdbc:7.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.tw7:tomee-juli:7.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.tw7:openejb-server:7.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.tw7:openejb-jee:7.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.xbean:xbean-asm5-shaded:4.5" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.xbean:xbean-finder-shaded:4.5" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.xbean:xbean-reflect:4.5" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.commons:commons-cli:1.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.tw7:openejb-ejbd:7.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.tw7:openejb-http:7.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.tw7:openejb-core:7.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.tw7:mbean-annotation-api:7.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.tw7:openejb-jpa-integration:7.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.commons:commons-lang3:3.5" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.tw7:openejb-api:7.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.tw7:openejb-javaagent:7.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.tw7:openejb-jee-accessors:7.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.sxc:sxc-jaxb-core:0.8" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.sxc:sxc-runtime:0.8" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.commons:commons-collections:3.2.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.geronimo.components:geronimo-transaction:3.1.3" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.howl:howl:1.0.1-1" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.geronimo-javamail:geronimo-javamail_1.4_mail:1.9.0-alpha-2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.xbean:xbean-bundleutils:4.5" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.hsqldb:hsqldb:2.3.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.commons:commons-dbcp2:2.1" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.commons:commons-pool2:2.3" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.commons:commons-logging:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.openejb.shade:quartz-openejb-shade:2.2.1" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.slf4j:slf4j-jdk14:1.7.21" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.slf4j:slf4j-api:1.7.21" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.openwebbeans:openwebbeans-impl:1.7.0" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.openwebbeans:openwebbeans-spi:1.7.0" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.openwebbeans:openwebbeans-ejb:1.7.0" level="project" />
+    <orderEntry type="library" name="Maven: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.openwebbeans:openwebbeans-ee:1.7.0" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.openwebbeans:openwebbeans-ee-common:1.7.0" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.openwebbeans:openwebbeans-web:1.7.0" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.openwebbeans:openwebbeans-el22:1.7.0" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.openjpa:openjpa:2.4.1" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.commons:commons-lang:2.6" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.commons-collections:commons-collections:3.2.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.serp:serp:1.14.1" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.bval:bval-core:1.1.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.bval:bval-jsr:1.1.2" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.commons-lang3:commons-lang3:3.5" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.ant:ant:1.8.4" level="project" />
+    <orderEntry type="library" name="Maven: com.tongweb.tw7:javaee-api:7.0-1" level="project" />
+    <orderEntry type="module" module-name="BenchMarkEJB" />
+  </component>
+</module>

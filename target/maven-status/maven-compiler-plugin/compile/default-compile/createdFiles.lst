@@ -1,0 +1,6 @@
+com\tongweb\client\MDBTestClient$Task.class
+com\tongweb\ejbs\QueueMessageSenderRemote.class
+com\tongweb\ejbs\QueueMessageSender.class
+com\tongweb\ejbs\MessagePrintBeanBean.class
+com\tongweb\ejbs\Company.class
+com\tongweb\client\MDBTestClient.class
